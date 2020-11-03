@@ -5,3 +5,4 @@ work done during learning data sciences cintains follwing  files
 ### learning numpy
 ### learning pandas series
 ### learning  pandas dataframe
+### learning Probabilty 
