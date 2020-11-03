@@ -3,4 +3,5 @@ work done during learning data sciences cintains follwing  files
 
 ### learning python
 ### learning numpy
-### learning pandas frame
+### learning pandas series
+### learning  pandas dataframe
